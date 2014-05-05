@@ -13,6 +13,7 @@ namespace VS2010Project.Controllers
             ViewBag.Message = "Modify this template to jump-start your ASP.NET MVC application.";
             ViewBag.TestSMS = "this is testing code.";
             ViewBag.testMess = "this testing two..";
+            ViewBag.TestMMS = "This is testing three.";
 
             return View();
         }
