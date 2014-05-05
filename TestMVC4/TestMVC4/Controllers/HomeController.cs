@@ -12,6 +12,7 @@ namespace TestMVC4.Controllers
         {
             ViewBag.Message = "Modify this template to jump-start your ASP.NET MVC application.";
             ViewBag.TestSMS = "This is my testing comment.";
+            ViewBag.TestBag = "this is testing again";
 
             return View();
         }
